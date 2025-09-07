@@ -1,0 +1,4 @@
+pareto/
+├── index.html       → Interface visual
+├── style.css        → Estilo profissional e responsivo
+├── script.js        → Lógica funcional e geração do gráfico
