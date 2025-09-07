@@ -1,0 +1,15 @@
+`plaintext
+SistemaQualidadePro/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── docs/                  → Documentação geral
+├── pareto/                → Ferramenta 1: Diagrama de Pareto
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── fmea/                  → Ferramenta 2: FMEA
+│   └── ...
+├── ...
+└── assets/                → Ícones, logos, imagens
+`
